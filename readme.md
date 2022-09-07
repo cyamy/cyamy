@@ -1,5 +1,5 @@
 # 🐧 hi, I'm cyamy!
-interesting: DIY Keyboard, Penguin, 3D Printer, Midwest Emo, Math Rock.
+interesting: DIY Keyboard, 3D Printer, TypeScript, Neovim, Music(Midwest Emo, Math Rock) and Penugin.
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyamy&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
